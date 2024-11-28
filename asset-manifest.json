@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sandram/static/css/main.6bafc450.css",
-    "main.js": "/sandram/static/js/main.affae0c1.js",
+    "main.js": "/sandram/static/js/main.232a07f8.js",
     "static/js/453.74e13755.chunk.js": "/sandram/static/js/453.74e13755.chunk.js",
     "static/media/1.jpg": "/sandram/static/media/1.e143894ed23c79fb1c04.jpg",
     "static/media/3.jpg": "/sandram/static/media/3.3810ed25138431f4d3f2.jpg",
@@ -9,11 +9,11 @@
     "static/media/2.jpg": "/sandram/static/media/2.8f4ab268214c3f9da5f7.jpg",
     "index.html": "/sandram/index.html",
     "main.6bafc450.css.map": "/sandram/static/css/main.6bafc450.css.map",
-    "main.affae0c1.js.map": "/sandram/static/js/main.affae0c1.js.map",
+    "main.232a07f8.js.map": "/sandram/static/js/main.232a07f8.js.map",
     "453.74e13755.chunk.js.map": "/sandram/static/js/453.74e13755.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bafc450.css",
-    "static/js/main.affae0c1.js"
+    "static/js/main.232a07f8.js"
   ]
 }
