@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/sandram/static/css/main.6bafc450.css",
-    "main.js": "/sandram/static/js/main.965c60fe.js",
+    "main.js": "/sandram/static/js/main.60d7c56a.js",
     "static/js/453.74e13755.chunk.js": "/sandram/static/js/453.74e13755.chunk.js",
-    "static/media/Almatinka_v_pristupe_yarosti_izbila_rebyonka_i_razbila_ego_samokat.jpg": "/sandram/static/media/Almatinka_v_pristupe_yarosti_izbila_rebyonka_i_razbila_ego_samokat.e143894ed23c79fb1c04.jpg",
-    "static/media/Zastroyshchik_vykupaet_doma_za_60_mln,_akimat_za_15:_chto_proiskhodit_s_chastnym_sektorom_v_Almaty.jpg": "/sandram/static/media/Zastroyshchik_vykupaet_doma_za_60_mln,_akimat_za_15:_chto_proiskhodit_s_chastnym_sektorom_v_Almaty.3810ed25138431f4d3f2.jpg",
+    "static/media/Almatinka v pristupe yarosti izbila rebyonka i razbila ego samokat.jpg": "/sandram/static/media/Almatinka v pristupe yarosti izbila rebyonka i razbila ego samokat.e143894ed23c79fb1c04.jpg",
+    "static/media/Smertelnaya avariya u TRTs Mega v Almaty obvinyaemaya skazala poslednee slovo.webp": "/sandram/static/media/Smertelnaya avariya u TRTs Mega v Almaty obvinyaemaya skazala poslednee slovo.3750b45c71304cd7e78b.webp",
     "static/media/author.jpg": "/sandram/static/media/author.2d7bf96721f50f3ade20.jpg",
+    "static/media/400 gruzovikov zastryali na granitse Kazakhstana s Uzbekistanom.webp": "/sandram/static/media/400 gruzovikov zastryali na granitse Kazakhstana s Uzbekistanom.067b46edc26ca5850e23.webp",
+    "static/media/V Kazakhstane stali chashche lishat voditelskikh prav.webp": "/sandram/static/media/V Kazakhstane stali chashche lishat voditelskikh prav.1d81b799f09375686aa7.webp",
+    "static/media/Kak slozhilsya 2024 god v kazakhstanskoy kulture po versii ministra Balaevoy.webp": "/sandram/static/media/Kak slozhilsya 2024 god v kazakhstanskoy kulture po versii ministra Balaevoy.34032c14504ac356ebc8.webp",
+    "static/media/Knigu Kemelya Tokaeva pereveli na bashkirskiyyazyk.webp": "/sandram/static/media/Knigu Kemelya Tokaeva pereveli na bashkirskiyyazyk.314b8f84530817957685.webp",
+    "static/media/Pochemu voditeli sutkami nemogut vernutsya izKazakhstana vUzbekistan.webp": "/sandram/static/media/Pochemu voditeli sutkami nemogut vernutsya izKazakhstana vUzbekistan.182313feb591ec685b66.webp",
+    "static/media/V Almatinskoy oblasti shkolnyy avtobus nasmert sbil semiletnego malchika.webp": "/sandram/static/media/V Almatinskoy oblasti shkolnyy avtobus nasmert sbil semiletnego malchika.1b5040ff68ddf8ad7510.webp",
+    "static/media/V MVD predlozhili privlekat chastnykh okhrannikov dlya obespecheniya bezopasnosti na sportivnykh meropriyatiyakh.webp": "/sandram/static/media/V MVD predlozhili privlekat chastnykh okhrannikov dlya obespecheniya bezopasnosti na sportivnykh meropriyatiyakh.a62b3dadc83d92f8b714.webp",
+    "static/media/Kazakhstan stal dlya Rossii primerom po vyrashchivaniyu bananov.webp": "/sandram/static/media/Kazakhstan stal dlya Rossii primerom po vyrashchivaniyu bananov.fe71707525747f47caf2.webp",
     "index.html": "/sandram/index.html",
     "main.6bafc450.css.map": "/sandram/static/css/main.6bafc450.css.map",
-    "main.965c60fe.js.map": "/sandram/static/js/main.965c60fe.js.map",
+    "main.60d7c56a.js.map": "/sandram/static/js/main.60d7c56a.js.map",
     "453.74e13755.chunk.js.map": "/sandram/static/js/453.74e13755.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bafc450.css",
-    "static/js/main.965c60fe.js"
+    "static/js/main.60d7c56a.js"
   ]
 }
