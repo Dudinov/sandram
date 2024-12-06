@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sandram/static/css/main.c3cc5996.css",
-    "main.js": "/sandram/static/js/main.9cbfe074.js",
+    "main.css": "/sandram/static/css/main.5f960d7d.css",
+    "main.js": "/sandram/static/js/main.ae58b300.js",
     "static/js/453.c5399cca.chunk.js": "/sandram/static/js/453.c5399cca.chunk.js",
     "static/media/Dorogi_v_dvukh_oblastyakh_Kazakhstana_perekryli_izza_plokhoy_pogody.webp": "/sandram/static/media/Dorogi_v_dvukh_oblastyakh_Kazakhstana_perekryli_izza_plokhoy_pogody.1718fa24fe254a59b4b5.webp",
     "static/media/Kazakhstanu_snova_ugrozhaet_sakharnyy_krizis.webp": "/sandram/static/media/Kazakhstanu_snova_ugrozhaet_sakharnyy_krizis.28eb4c7c68103f35787f.webp",
@@ -32,12 +32,12 @@
     "static/media/Voennye_samolyoty_budut_letat_nad_Astanoy.webp": "/sandram/static/media/Voennye_samolyoty_budut_letat_nad_Astanoy.ae29009cbceee771b898.webp",
     "static/media/Kazakhstan_stal_dlya_Rossii_primerom_po_vyrashchivaniyu_bananov.webp": "/sandram/static/media/Kazakhstan_stal_dlya_Rossii_primerom_po_vyrashchivaniyu_bananov.fe71707525747f47caf2.webp",
     "index.html": "/sandram/index.html",
-    "main.c3cc5996.css.map": "/sandram/static/css/main.c3cc5996.css.map",
-    "main.9cbfe074.js.map": "/sandram/static/js/main.9cbfe074.js.map",
+    "main.5f960d7d.css.map": "/sandram/static/css/main.5f960d7d.css.map",
+    "main.ae58b300.js.map": "/sandram/static/js/main.ae58b300.js.map",
     "453.c5399cca.chunk.js.map": "/sandram/static/js/453.c5399cca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3cc5996.css",
-    "static/js/main.9cbfe074.js"
+    "static/css/main.5f960d7d.css",
+    "static/js/main.ae58b300.js"
   ]
 }
